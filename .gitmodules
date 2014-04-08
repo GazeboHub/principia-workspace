@@ -1,0 +1,12 @@
+[submodule "workspace/principia-oed"]
+	path = workspace/principia-oed
+	url = git@github.com:GazeboHub/principia-oed-workspace.git
+	branch = master
+[submodule "workspace/principia-lispm"]
+	path = workspace/principia-lispm
+	url = git@github.com:GazeboHub/principia-lispm-workspace.git
+	branch = master
+[submodule "workspace/principia-web"]
+	path = workspace/principia-web
+	url = git@github.com:GazeboHub/principia-web-workspace.git
+	branch = master
