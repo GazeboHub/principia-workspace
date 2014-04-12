@@ -10,3 +10,7 @@
 	path = workspace/principia-web
 	url = git@github.com:GazeboHub/principia-web-workspace.git
 	branch = master
+[submodule "workspace/principia-hw-sbc"]
+	path = workspace/principia-hw-sbc
+	url = git@github.com:GazeboHub/principia-hw-sbc-workspace.git
+	branch = master
